@@ -153,6 +153,3 @@ All analysis is contained in the notebook with executable cells for each section
 
 ---
 
-**Analysis Date:** February 22, 2026  
-**Analyst:** Meryem (mhrafiq2)  
-**Course:** BADM 576 - Data Science and Analytics

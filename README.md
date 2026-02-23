@@ -120,21 +120,6 @@ All analysis is contained in the notebook with executable cells for each section
 - Implement post-hire outcome tracking
 - Build competitive benchmarking
 
-## Files
-
-```
-.
-├── project.ipynb                          # Main analysis notebook
-├── README.md                              # This file
-├── .gitignore                             # Git ignore rules
-└── JobData HW/
-    └── JobMatch_Data/
-        ├── candidates.csv                 # Candidate profiles
-        ├── companies.csv                  # Company information
-        ├── jobs.csv                       # Job postings
-        └── events.csv                     # Platform events
-```
-
 ## Notes
 
 - All numbers are statistically tested with p-values and confidence intervals

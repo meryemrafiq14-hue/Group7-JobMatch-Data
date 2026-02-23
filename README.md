@@ -4,10 +4,6 @@ A comprehensive data analysis of the JobMatch recruiting platform to diagnose pe
 
 ## Project Overview
 
-**Team:** Data Science and Analytics Class (BADM 576)  
-**Due:** February 17, 2026  
-**Status:** Analysis Complete ✓
-
 ### Objective
 Analyze JobMatch's recruiting platform data to:
 - Understand data structure and quality
@@ -138,11 +134,6 @@ All analysis is contained in the notebook with executable cells for each section
         ├── jobs.csv                       # Job postings
         └── events.csv                     # Platform events
 ```
-
-## Next Steps
-
-1. ✓ Data analysis complete
-2. ⏳ Write 10-page PDF report
 
 ## Notes
 
